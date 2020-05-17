@@ -1,0 +1,178 @@
+@import url(https://zzzmario.github.io/modern-indicators/src/source.css);
+
+:root {
+   --unread-badge: rgba(255,255,255,0.6) !important;
+   --unread-background: rgba(255, 255, 255, 0.008) !important;
+   --selected-badge: rgb(112, 135, 215) !important;
+   --selected-background: rgba(112, 135, 215, 0.1) !important;
+   --hovered: rgba(79,84,92,0.16) !important;
+   --active: rgba(79,84,92,0.24) !important;
+}
+
+.inner-MADQqc {
+   height: 70px;
+}
+form .channelTextArea-rNsIhG {
+    border-radius: 0%;
+}
+.chat-3bRxxu .content-yTz4x3 form {
+    left: -15px;
+    width: 100%;
+}
+.fontSize18Padding-2RUesG {
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+    position: relative;
+    top: -10px;
+}
+.markup-2BOw-j.da-markup.slateTextArea-1Mkdgw.da-slateTextArea.fontSize18Padding-2RUesG {
+    position: relative;
+    align-content: center;
+}
+
+.edited-DL9ECl {
+    font-size: 0;
+    width: 13px !important;
+    height: 13px !important;
+    display: inline-block;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gICAgPHBhdGggZD0iTTMgMTcuMjVWMjFoMy43NUwxNy44MSA5Ljk0bC0zLjc1LTMuNzVMMyAxNy4yNXpNMjAuNzEgNy4wNGMuMzktLjM5LjM5LTEuMDIgMC0xLjQxbC0yLjM0LTIuMzRjLS4zOS0uMzktMS4wMi0uMzktMS40MSAwbC0xLjgzIDEuODMgMy43NSAzLjc1IDEuODMtMS44M3oiLz4gICAgPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==);
+    background-size: 100%;
+    opacity: .3;
+    line-height: 23px;
+    margin-left: 5px;
+}
+
+/*
+  Message Box Fix Continued...
+*/
+.inner-MADQqc {
+  /* Optional: Remove the rule below and the other .inner-MADQqc rule set from ciipher's fix. */
+  height: unset !important;
+  min-height: 70px;
+}
+
+form .textArea-12jD-V {
+  padding: 0px;
+  margin-right: 156px;
+}
+
+.attachWrapper-2TRKBi {
+  width: 49px;
+}
+
+.buttonContainer-28fw2U, .buttons-3JBrkn, .attachWrapper-2TRKBi, .inner-MADQqc {
+  position: static;
+}
+
+.inner-MADQqc .button-38aScr  {
+  position: absolute;
+}
+
+.inner-MADQqc > .buttons-3JBrkn > .button-38aScr:nth-child(3) {
+  max-height: unset;
+  right: 6px;
+}
+
+.inner-MADQqc > .buttons-3JBrkn > .buttonContainer-28fw2U > .button-38aScr {
+  right: 56px;
+}
+
+.inner-MADQqc > .buttons-3JBrkn > .button-38aScr:nth-child(1) {
+  right: 106px;
+}
+
+.listItem-2P_4kh {
+    height: 64px;
+}
+
+.listItem-2P_4kh .wrapper-25eVIn {
+    height: 64px;
+}
+
+.listItem-2P_4kh .item-2hkk8m::before {
+    top: calc((100% - 54px) / 2);
+    left: calc((100% - 54px) / 2);
+    width: 54px;
+    height: 54px;
+}
+
+/* Normal color profile badges */   
+.profileBadgeStaff-13GO7z {
+    background-image: url(/assets/4358ad1fb423b346324516453750f569.svg) !important;
+}
+
+.profileBadgePartner-SjK6L2 {
+    background-image: url(/assets/33fedf082addb91d88abc272b4b18daa.svg) !important;
+}
+
+.profileBadgePremium-3kZ9Qj {
+    background-image: url(/assets/386884eecd36164487505ddfbac35a9d.svg) !important;
+}
+
+.profileBadgeHypesquad-1YIe7Z {
+    background-image: url(/assets/6c73f47daf179ffade99f501bfc5101b.svg) !important;
+}
+
+.profileBadgeHypeSquadOnlineHouse1-xN6tES {
+    background-image: url(/assets/64ae1208b6aefc0a0c3681e6be36f0ff.svg) !important;
+}
+
+.profileBadgeHypeSquadOnlineHouse2-3jBpXR {
+    background-image: url(/assets/48cf0556d93901c8cb16317be2436523.svg) !important;
+}
+
+.profileBadgeHypeSquadOnlineHouse3-1YbjMX {
+    background-image: url(/assets/9fdc63ef8a3cc1617c7586286c34e4f1.svg) !important;
+}
+.profileBadgeBugHunter-IV0vLE {
+    background-image: url(/assets/f61b8981e92feead854f52e5a1ba14f0.svg) !important;
+}
+.profileBadgeEarlySupporter-PQB_0a {
+    background-image: url(/assets/23e59d799436a73c024819f84ea0b627.svg) !important;
+}
+
+:root {
+    --settings-width: 60%;
+    --settings-height: 85%;
+}
+
+.toolsContainer-1edPuj {
+    padding-top: 30px;
+}
+
+.layers-3iHuyZ {
+    align-items:center;
+    justify-content:center;
+}
+
+.layers-3iHuyZ > .layer-3QrUeG:first-child {
+    opacity: 1!important;
+    transform: none!important;
+}
+
+.layers-3iHuyZ > .layer-3QrUeG.stop-animations:first-child {z-index: 1;}
+
+.layers-3iHuyZ > .layer-3QrUeG:nth-child(2)::before {
+    content: "";
+    position: absolute;
+    top: calc((100% - var(--settings-height)) / -1); left: calc((100% - var(--settings-width)) / -1);
+    padding: calc(100% - var(--settings-height)) calc(100% - var(--settings-width));
+    background: black;
+    z-index: 2;
+    opacity: 0.85;
+    width: 100%;
+    height: 100%;
+}
+
+.layers-3iHuyZ > .layer-3QrUeG:nth-child(2) {
+    width: var(--settings-width);
+    height: var(--settings-height);
+    top:unset;
+    bottom:unset;
+    right:unset;
+    left:unset;
+    display: block;
+    overflow: visible;
+    transform: translateZ(0);
+    z-index: 3;
+}
